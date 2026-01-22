@@ -1,4 +1,3 @@
-````markdown
 # Add Rules
 
 Android malware analysis engine is not a new story. Every antivirus company has
